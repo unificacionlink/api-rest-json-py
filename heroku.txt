@@ -1,0 +1,22 @@
+set HomeDrive=C:/Users/practicanteti/AppData/Local/heroku
+
+//Generar contraseñas
+https://www.lastpass.com/es/features/password-generator
+
+//API
+https://tdem-lecturas-remotas.herokuapp.com/PY_KEYS
+
+
+heroku login
+
+cd C:\Users\practicanteti\Documents\developers\Angular\api-rest-json-py
+
+git init
+
+git add .
+
+git commit -am "make it better"
+
+git push heroku master
+
+
